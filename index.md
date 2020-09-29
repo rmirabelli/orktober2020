@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## Orktober 2020
 
-You can use the [editor on GitHub](https://github.com/rmirabelli/orktober2020/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![Orktober 2020 logo](orktober2020color.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Several game companies (notably those focused on GrimDark settings) have coined the term ["Orktober"](https://www.kromlech.eu/EN-H5/1/422/orktober.html) as a celebration for the month of October.
 
-### Markdown
+Most of these are based around buying stuff.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I'm planning on celebrating Orktober this year, but in a different way. I'm going to 3D print and paint an entire Ork warband for [Warhammer 40k](https://www.games-workshop.com/en-US/Warhammer-40-000), using 3D models from [GearGutz's Mekshop](https://geargutsmekshop.com).
 
-```markdown
-Syntax highlighted code block
+There are multiple components to this project:
 
-# Header 1
-## Header 2
-### Header 3
+1. I want to see if I can build a full army in a single month. That's a big stretch.
+2. I want to document the process.
+3. I want to build at GearGutz 100% size. To date I've been building at 85%, which more closely matches GW scale.
+4. I want to understand GitKraken's GloBoards a little better, and so I've set up a full KanBan board for this project.
+5. I want to explore project pages in GitHub.
 
-- Bulleted
-- List
+The only rules I've set up for myself are:
 
-1. Numbered
-2. List
+1. Try not to buy anything new (apart from printer filament)
+2. All printing and painting must begin no sooner than Orktober 1.
+3. Bases are the exception to rule 2.
 
-**Bold** and _Italic_ and `Code` text
+Software I'll be using (apart from camera/photo tools):
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rmirabelli/orktober2020/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- the [atom](https://atom.io) text editor
+- [GitHub Pages](https://pages.github.com)
+- GitKraken [GloBoards](https://www.gitkraken.com/boards)
+- [Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura)
